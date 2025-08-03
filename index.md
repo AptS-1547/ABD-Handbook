@@ -7,9 +7,9 @@ hero:
   text: "阿伯丁数据科学与人工智能学院新生手册指南"
   actions:
     - theme: brand
-      text: Get Started
+      text: 从这里开始
       link: /guide
     - theme: alt
-      text: About
+      text: 关于
       link: /README.md
 ---
