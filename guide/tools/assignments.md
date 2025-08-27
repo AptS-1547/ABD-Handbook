@@ -20,8 +20,8 @@
 
 | 模板名称 | 状态 | 特点 | 链接 | 维护状态 |
 | -------- | ---- | ---- | ---- | -------- |
-| SCNU-ABD-Thesis-template | LaTeX模板 | 经典版本 | [GitHub](https://github.com/kikixiong/SCNU-ABD-Thesis-template) | 已停止维护 |
-| NEXT-SCNUThesis | LaTeX模板 | 现代化版本 | [GitHub](https://github.com/FaterYU/NEXT-SCNUThesis) | 🔄 持续更新 |
+| SCNU-ABD-Thesis-template | LaTeX模板 | 细节可能缺失 | [GitHub](https://github.com/kikixiong/SCNU-ABD-Thesis-template) | 已停止维护 |
+| NEXT-SCNUThesis | LaTeX模板 | 共同维护 | [GitHub](https://github.com/FaterYU/NEXT-SCNUThesis) | 🔄 持续更新 |
 
 推荐使用 **NEXT-SCNUThesis** 模板，该模板持续更新，功能更完善。
 
@@ -29,79 +29,19 @@
 
 ### 🔤 编程基础类
 
-#### Object-Oriented Programming (OOP)
-**项目**: 后缀表达式转换  
-**技术栈**: Java  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/OOP-Assignment)  
-**学习重点**: 面向对象编程思想、数据结构应用
-
-#### Java Foundation
-**项目**: Java小游戏实现  
-**技术栈**: Java Swing  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/JavaAssignment)  
-**学习重点**: GUI编程、事件处理
-
-#### Data Structure
-**项目**: 地铁线路规划系统  
-**技术栈**: C++  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/Data-Structure-Subway-Map)  
-**学习重点**: 图算法、最短路径算法
+等待补充
 
 ### 🌐 Web开发类
 
-#### Web Development
-**项目**: 个人网站开发  
-**技术栈**: HTML, CSS, JavaScript  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/Web-Develop-Assignment)  
-**学习重点**: 前端开发基础、响应式设计
+等待补充
 
 ### 🏗️ 软件工程类
 
-#### Software Engineering
-**项目**: 咖啡厅管理系统  
-**技术栈**: Java Spring Boot  
-**参考链接**: [GitHub](https://github.com/FaterYU/CafeManagement)  
-**学习重点**: 软件开发生命周期、需求分析
-
-#### Software Process Management
-**项目**: BodyBuddy健身应用  
-**技术栈**: 移动端开发  
-**参考链接**: [GitHub](https://github.com/FaterYU/BodyBuddy)  
-**学习重点**: 项目管理、团队协作
-
-#### Software Implementation
-**项目**: WearWizard时装推荐系统  
-**技术栈**: 机器学习 + Web开发  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/WearWizard)  
-**学习重点**: 推荐算法、全栈开发
+等待补充
 
 ### 🖥️ 系统类
 
-#### Operating System
-**项目**: 内存调度算法实现  
-**技术栈**: C/C++  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/OS-assignment)  
-**学习重点**: 操作系统原理、内存管理
-
-#### Distributed System
-**项目**: 联邦学习训练MNIST数据集  
-**技术栈**: Python, TensorFlow  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/FederatedLearning-MNIST)  
-**学习重点**: 分布式计算、联邦学习
-
-### 🤖 人工智能类
-
-#### Natural Language Processing (NLP)
-**项目**: 弱智吧数据集语言模型训练  
-**技术栈**: Python, PyTorch  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/RuoZhiBa_Translator)  
-**学习重点**: 自然语言处理、语言模型
-
-#### Knowledge Representation
-**项目**: GemAndDragon Prolog游戏  
-**技术栈**: Prolog  
-**参考链接**: [GitHub](https://github.com/LLLLLrf/GemAndDragon-PrologGame)  
-**学习重点**: 逻辑编程、知识表示
+等待补充
 
 ## 📊 项目难度评估
 
