@@ -36,7 +36,7 @@ TODO：需补充
 - **晚安华师**: `nitescnu`
 - **华师学工**: `huashixuegong`
 - **ABDN学院**: `SCNU-UoA2021`
-- **We Aberdeen**: `暂无`
+- **We Aberdeen**（可直接搜索账号添加）
 
 ## 📧 邮件联系模板
 
